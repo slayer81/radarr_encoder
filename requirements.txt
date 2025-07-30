@@ -1,0 +1,9 @@
+psycopg2-binary
+lxml
+ffmpeg-python
+python-dotenv
+humanize
+pathlib
+requests
+psycopg2
+
